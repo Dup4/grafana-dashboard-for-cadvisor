@@ -24,7 +24,7 @@
   "gnetId": 14282,
   "graphTooltip": 0,
   "id": 15,
-  "iteration": 1640798930319,
+  "iteration": 1640828722894,
   "links": [
     {
       "asDropdown": false,
@@ -753,5 +753,5 @@
   "timezone": "",
   "title": "Cadvisor Dashboard",
   "uid": "pMEd7m0Mz",
-  "version": 8
+  "version": 10
 }
